@@ -17,4 +17,3 @@ by Anna Sikora
 - Github
 - Codespaces
 - Jupyter
-- test
